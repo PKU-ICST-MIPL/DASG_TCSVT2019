@@ -16,20 +16,20 @@ This code is implemented with pytorch.
 
 There are three parts of the codes:
 
-1. run_s：To learn the object and relation representation of the image and text
+## 1. run_s：To learn the object and relation representation of the image and text
 
 Start training and tesing by executiving the following commands:
 
 cd ./run_s
 python train.py
 
-2. whole: To learn the representation of the whole image and text
+## 2. whole: To learn the representation of the whole image and text
 
 Start training and tesing by executiving the following commands:
 
 cd ./whole
 python train.py
 
-3. result: Merge the similarity scores for final retrieval
+## 3. result: Merge the similarity scores for final retrieval
 
 
