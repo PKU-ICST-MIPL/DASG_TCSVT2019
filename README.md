@@ -21,6 +21,7 @@ There are three parts of the codes:
 Start training and tesing by executiving the following commands:
 
 cd ./run_s
+
 python train.py
 
 ## 2. whole: To learn the representation of the whole image and text
@@ -28,6 +29,7 @@ python train.py
 Start training and tesing by executiving the following commands:
 
 cd ./whole
+
 python train.py
 
 ## 3. result: Merge the similarity scores for final retrieval
